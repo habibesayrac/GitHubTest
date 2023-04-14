@@ -1,2 +1,3 @@
 dorduncu dosya olusturuldu 
 deneme yapıldı 
+bu kısım branchdenemede yapıldı
